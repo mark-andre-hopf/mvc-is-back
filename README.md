@@ -16,7 +16,7 @@
 
 2.  MVC in web frameworks like Spring Boot, Ruby on Rails, etc.  is NOT MVC, it's [JSP model 2](https://en.wikipedia.org/wiki/JSP_model_2_architecture).
 
-3.  Third: A Model is not data, It is a '[model](https://en.wikipedia.org/wiki/Model)', a simplified representation of something else.  It has data (variables) AND behaviour (code).
+3.  A Model is not data, It is a '[model](https://en.wikipedia.org/wiki/Model)', a simplified representation of something else.  It has data (variables) AND behaviour (code).
 
 4.  There is no recursion in MVC.
 
