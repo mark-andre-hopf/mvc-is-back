@@ -78,7 +78,7 @@ the MVC pattern seems to be back in fashion again.
 
 And here is what it looks like in React [App.tsx](./src/App.tsx)
 
-While this looks nice fo simple cases, there is one piece missing.
+While this looks nice for simple cases, there is (at least) one piece missing.
 
 When we have complex data, e.g. a table, it is usefull to also provide information to the view not just that something has changed, but also what has changed.
 
